@@ -3,7 +3,7 @@ The notebook contains a neural network that learns to multiply two integers usin
 
 ## Requirements:
 1. The file was originally made using Python 3.12.7
-2. The used packages are torch and numpy
+2. The only package used is torch
 
 ## How to run:
 1. First Run All the cells
