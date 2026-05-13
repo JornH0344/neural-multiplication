@@ -6,7 +6,7 @@ The notebook contains a neural network that learns to multiply two integers usin
 2. The only package used is torch
 
 ## How to run:
-1. First Run All the cells
+1. First run all the cells
 2. The last cell in the last section can be used to predict values by changing x1 and x2, and then running the cell.
 
 ## Approach
